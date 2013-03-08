@@ -1,3 +1,4 @@
 <?php
-print "test\n"
+print "test\n";
+// 日本語登録できるの？
 ?>
