@@ -7,3 +7,4 @@ git flowを使った開発テスト
 
 sample01追加
 
+HotFix 1.0.1による修正
